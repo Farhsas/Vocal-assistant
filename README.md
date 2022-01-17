@@ -12,5 +12,6 @@ Python
 
 ### What do you need:
 - Raspberry Pi 3b
+- 16Gb SD Card 
 - SenseHat
 - USB microphone
